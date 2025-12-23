@@ -1,0 +1,6 @@
+/* Edit these CSS variables in :root */
+:root {
+    --accent: #00d4ff;        /* Main brand color */
+    --bg-primary: #0a0a0a;    /* Background */
+    --bg-card: rgba(15,15,20,0.9); /* Card background */
+}
